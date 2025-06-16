@@ -11,7 +11,7 @@
 You can load Nux Library through a GitHub Release:
 
 ```lua
-local Nux_Library = loadstring(game:HttpGet("https://github.com/Nux-Hub/Luxon/releases/latest/download/main.lua"))()
+local Luxon = loadstring(game:HttpGet("https://github.com/Nux-Hub/Luxon/releases/latest/download/main.lua"))()
 ```
 <br/>
 
